@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\dkolev\PlanetTechnologies\client\GuideYourStyle\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="WrappedOrganizationService.svc" publishTime="05/02/2012 22:56:18" />
+    <file relUrl="Web.config" publishTime="06/12/2012 19:49:21" />
+    <file relUrl="bin/microsoft.xrm.sdk.xml" publishTime="01/10/2012 22:22:00" />
+    <file relUrl="bin/PT.CRM.WrapperService.dll" publishTime="06/12/2012 19:33:47" />
+    <file relUrl="bin/microsoft.xrm.sdk.dll" publishTime="01/10/2012 22:22:00" />
+    <file relUrl="bin/PT.CRM.WrapperService.pdb" publishTime="06/12/2012 19:33:46" />
+  </publishProfile>
+</publishData>
